@@ -14,9 +14,4 @@ const careersPageObj = new CareersPage(page);
 
 await careersPageObj.searchForJobs()
 
-
-
-
-
-
 });
